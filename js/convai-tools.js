@@ -6,7 +6,7 @@
 // ============================================================================
 
 // REQUIRED: Replace with your ElevenLabs agent ID
-const AGENT_ID = 'agent_01jyn7wnfee13rbz42egdhtjk3';
+const AGENT_ID = 'agent_6701k20bsgzsf0z8t1m6e7y898n6';
 
 // OPTIONAL: Change navigation behavior
 const OPEN_IN_NEW_TAB = true; // true = new tab, false = same tab
@@ -15,7 +15,7 @@ const OPEN_IN_NEW_TAB = true; // true = new tab, false = same tab
 const WIDGET_POSITION = 'bottom-right'; // 'bottom-right', 'bottom-left', 'top-right', 'top-left'
 
 // OPTIONAL: Base URL for navigation (leave empty for auto-detection)
-const BASE_URL = ''; // e.g., 'https://mysite.framer.app' or 'https://mysite.wixsite.com/mysite'
+const BASE_URL = 'electricmiles.com'; // e.g., 'https://electricmiles.com/pricing' or 'https://electricmiles.com/empact'
 
 // ============================================================================
 // DON'T CHANGE ANYTHING BELOW THIS LINE
